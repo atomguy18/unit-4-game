@@ -1,0 +1,88 @@
+body {
+    background-image: url(images/istockphoto-872840088-612x612.jpg);
+}
+
+header {
+    background: #ffffff;
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px #cccccc solid;
+}
+
+.header {
+    width: 960px;
+    background: #ffffff;
+    display: inline-block;
+    margin: 0 auto 0 auto;
+}
+#rules {
+    background:grey;
+    width: 500px;
+}
+
+#crystal-1 {
+    background-image: url(images/download.png);
+    height: 150px;
+    width: 150px;
+}
+#crystal-2 {
+    background-image: url(images/images.jfif);
+    height: 150px;
+    width: 150px;
+}
+#crystal-3 {
+    background-image: url(images/images\ \(1\).jfif);
+    height: 150px;
+    width: 150px;
+}
+#crystal-4 {
+    background-image: url(images/images\ \(2\).jfif);
+    height: 150px;
+    width: 150px;
+}
+.game {
+    float: left;
+    background: #4aaaa5;
+    color: #ffffff;
+    font-size: 2rem
+}
+
+.rules {
+    background:grey;
+    width: 500px; 
+    margin: 0 0 0 10px;  
+}
+.randomNum {
+    background: beige;
+    height: 100px;
+    width:100px;
+    float: left;
+    font-size: 3rem;
+    text-align: center;
+    margin: 0 0 0 10px
+}
+.score {
+    background: yellow;
+    height: 100px;
+    width: 100px;
+    font-size: 3rem;
+    text-align: center;
+    margin: 10px 0 0 10px;   
+}
+.button {
+    clear: both;
+    margin: 0 0 0 10px
+}
+.crystal {
+    width: 100px;
+    height: 100px;
+}
+
+.result {
+    height:100px;
+    width: 100px;
+    background: beige;
+    float: left;
+    font-size: 1.5rem;
+    margin:0 0 10px 10px;
+}
